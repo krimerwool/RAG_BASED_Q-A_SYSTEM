@@ -31,14 +31,14 @@ This project demonstrates a solution for document querying using advanced AI tec
 - **Jupyter Widgets**: Interactive file upload interface.
 
 ## Installation 
-### 1. Clone this repository:
+ 1. Clone this repository:
     ```bash
     git clone https://github.com/krimerwool/RAG_BASED_Q-A_SYSTEM
     cd RAG_BASED_Q-A_SYSTEM
-### 2. Install Dependencies:\
+ 2. Install Dependencies:
     ```bash
     pip install -r requirements.txt
-### 3. Set up the environment variable for the Google API Key:
+ 3. Set up the environment variable for the Google API Key:
     ```bash
     export GOOGLE_API_KEY="YOUR_API_KEY"
 ## Usage
